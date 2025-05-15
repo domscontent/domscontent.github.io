@@ -23,3 +23,5 @@ anyhow, if you wanted to check out my YouTube content, [click here](https://yout
 ### Peace!<br/>
 
 ##### Dom's Content
+
+> The real purpose of life is to learn to enjoy a little, and tollerate a lot.
