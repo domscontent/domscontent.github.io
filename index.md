@@ -11,6 +11,6 @@ I'm a b2b marketing exec, mastering AI, automation and life.
 
 This is my digital diary, or *personal development blog.*
 
-  **Hey,** I also give away lots of free value on my YouTube content, [click here](https://youtube.com/@doms-content). 
+  **Hey,** I also give away lots of free value on my YouTube channel, [click here](https://youtube.com/@doms-content). 
   {: .notice--info}
   
