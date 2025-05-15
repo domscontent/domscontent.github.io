@@ -71,12 +71,12 @@ author:
 
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/domscontent"
       - label: "YouTube"
       icon: "fas fa-fw fa-youtube"
       url: "https://youtube.com/@doms-content/"
+      - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/domscontent"
 
 defaults:
   # _posts
