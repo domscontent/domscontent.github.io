@@ -16,8 +16,8 @@
 title: Dom's Digital Diary
 email: domscontent@icloud.com
 description: "My development diary, devlog or digital blog."
-twitter_username: username
-github_username: username
+#twitter_username: username
+#github_username: username
 minimal_mistakes_skin: contrast
 search: true
 
