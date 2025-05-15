@@ -16,13 +16,13 @@ my personal development log, or my devlog of life.
 
 <img src="bio-photo.jpeg" alt="Dom's Content" width="100"/>
 
-### I have figure out I can host this for free on github pages<br/>
+### I have figured out I can host this for free on github pages<br/>
 
 which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
 
 **p.s** anyhow, if you wanted to check out my YouTube content, [click here](https://youtube.com/@doms-content) {: .notice--success}
 
---
+---
 
 ### Peace!<br/>
 
