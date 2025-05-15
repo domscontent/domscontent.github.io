@@ -14,7 +14,7 @@ thanks for stopping by.
 
 <img src="bio-photo.jpeg" alt="Dom's Content" width="100"/>
 
-> The real purpose of life is to learn to enjoy a little, and tollerate a lot.
+> "The real purpose of life is to learn to enjoy a little, and tollerate a lot." - some wise person (it's true)
 
 #### I have figure out I can host this for free on github pages<br/>
 
