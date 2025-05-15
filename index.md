@@ -6,7 +6,7 @@ layout: home
 author_profile: true
 ---
 
-## See Dom's Content. 
+## Welcome to Dom's Content. 
 
 I'm a b2b marketing exec, mastering AI, automation and life. 
 
