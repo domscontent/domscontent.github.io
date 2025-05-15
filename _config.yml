@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dom's Digital Diary
+title: Dom's Content
 title_separator: "|"
 email: domscontent@icloud.com
-description: "My development diary, devlog or digital blog."
+description: "Welcome to Dom's Content. This is my personal development diary, devlog or digital blog."
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: contrast
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dom's Content"
+  name   : "Dom"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "b2b marketer. Rookie dad. Self-improvement addict."
   links:
