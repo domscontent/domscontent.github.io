@@ -7,6 +7,10 @@ layout: home
 author_profile: true
 ---
 
+
 I'm a b2b marketing exec, mastering AI, automation and life. 
 
+
 This is my digital diary, or *personal development blog.*
+
+
