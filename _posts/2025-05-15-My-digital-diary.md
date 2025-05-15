@@ -12,7 +12,7 @@ my personal development log, or my devlog of life.
 
 thanks for stopping by.
 
-! [Dom's Content](
+! [Dom's Content](https://domscontent.com/assets/images/bio-photo.jpeg)
 
 #### I have figure out I can host this for free on github pages
 
