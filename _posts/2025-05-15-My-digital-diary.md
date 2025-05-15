@@ -12,9 +12,9 @@ my personal development log, or my devlog of life.
 
 thanks for stopping by.
 
-> The real purpose of life is to learn to enjoy a little, and tollerate a lot.
-
 <img src="bio-photo.jpeg" alt="Dom's Content" width="100"/>
+
+> The real purpose of life is to learn to enjoy a little, and tollerate a lot.
 
 #### I have figure out I can host this for free on github pages<br/>
 
