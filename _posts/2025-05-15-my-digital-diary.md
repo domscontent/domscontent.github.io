@@ -14,9 +14,7 @@ my personal development log, or my devlog of life.
 
 *thanks for stopping by.*
 
-<div style="width:150px; height:100px">
-![Dom's Content](bio-photo.jpeg)
-</div>
+![Dom's Content](bio-photo.jpeg =100x100)
 
 ### I have figured out I can host this for free on github pages<br/>
 
