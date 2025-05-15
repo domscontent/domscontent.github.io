@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## My name is Dom and this is my digital diary, or my personal development log.
+## My name is Dom and this is my digital diary, or my personal development log.<br/>
 
 I am a b2b marketing executive by day, and a busy rookie dad by night.
 
