@@ -63,7 +63,7 @@ author:
   bio    : "b2b marketer. Rookie dad. Self-improvement addict."
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-youtube"
       url: "https://youtube.com/@doms-content/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-youtube"
       url: "https://youtube.com/@doms-content/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
