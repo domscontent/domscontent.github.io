@@ -20,10 +20,7 @@ my personal development log, or my devlog of life.
 
 which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
 
-<div class="notice--success">
-  <h4>p.s</h4>
-  <p>anyhow, if you wanted to check out my YouTube content, [click here](https://youtube.com/@doms-content)</p>
-</div>
+  **p.s** anyhow, if you wanted to check out my YouTube content, [click here](https://youtube.com/@doms-content). {: .notice}
 
 ---
 
