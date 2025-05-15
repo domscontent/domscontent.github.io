@@ -14,7 +14,7 @@ my personal development log, or my devlog of life.
 
 *thanks for stopping by.*
 
-![Dom's Content](/assets/bio-photo.jpeg)
+![Dom's Content](assets/bio-photo.jpeg)
 
 ### I have figured out I can host this for free on github pages<br/>
 
