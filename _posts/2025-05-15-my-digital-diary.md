@@ -14,7 +14,7 @@ my personal development log, or my devlog of life.
 
 *thanks for stopping by.*
 
-![Dom's Content](bio-photo.jpeg){: width=150 height=100} 
+![Dom's Content](bio-photo.jpeg)
 
 ### I have figured out I can host this for free on github pages<br/>
 
