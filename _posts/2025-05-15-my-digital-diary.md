@@ -14,7 +14,7 @@ my personal development log, or my devlog of life.
 
 *thanks for stopping by.*
 
-<img src="/assets/bio-photo.jpeg" alt="Dom's Content" style="height: 100px; width:100px;"/>
+<img src="assets/bio-photo.jpeg" alt="Dom's Content" style="height: 100px; width:100px;"/>
 
 ### I have figured out I can host this for free on github pages<br/>
 
