@@ -27,6 +27,6 @@ which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
 
 ### That's all, folks!
 
-**Dom's Content**
+_**Dom's Content**_
 
 > "The real purpose of life is to learn to enjoy a little, and tollerate a lot." - some wise person (it's true)
