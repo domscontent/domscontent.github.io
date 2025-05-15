@@ -71,10 +71,10 @@ author:
 
 footer:
   links:
-      - label: "YouTube"
+    - label: "YouTube"
       icon: "fas fa-fw fa-youtube"
       url: "https://youtube.com/@doms-content/"
-      - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/domscontent"
 
