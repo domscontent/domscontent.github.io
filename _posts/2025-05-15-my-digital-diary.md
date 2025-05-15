@@ -24,7 +24,7 @@ which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
 
 ---
 
-### Peace!<br/>
+### Peace!
 
 #### Dom's Content
 
