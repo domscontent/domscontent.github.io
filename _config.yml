@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dom's Content"
+  name   : "Dom R."
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "b2b marketer. Rookie dad. Self-improvement addict."
   links:
