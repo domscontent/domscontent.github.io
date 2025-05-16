@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## About
+## About Dom's Content
 
 My name’s Dom. I am a b2b marketer by day, and a busy rookie dad by night.
 
