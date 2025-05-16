@@ -21,4 +21,4 @@ If you're a founder, small business owner, or operator looking for **lean, pract
 I offer LinkedIn content writing and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
 Otherwise, thanks for stopping by.  
-You can find me on [YouTube at Dom’s Content](https://www.youtube.com/@domscontent) or reach out via [email](domscontent@icloud.com) if you want to connect.
+You can find me on [YouTube at Dom’s Content](https://www.youtube.com/@doms-content) or reach out via [email](domscontent@icloud.com) if you want to connect.
