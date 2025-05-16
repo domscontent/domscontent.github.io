@@ -5,7 +5,9 @@ title: "About"
 
 ## About Dom's Content
 
-My name’s Dom. I am a b2b marketer by day, and a busy rookie dad by night.
+Hey. My name’s Dom. 
+
+I am a b2b marketer by day, and a busy rookie dad by night.
 
 This is my digital diary, a personal development log, and a place to share what I’m learning.
 
