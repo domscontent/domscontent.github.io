@@ -1,6 +1,6 @@
 ---
 permalink: /services/
-title: "Dom's Content Services"
+title: "Services"
 ---
 
 ## Dom's Content Services
