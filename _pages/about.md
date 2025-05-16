@@ -14,7 +14,9 @@ You’ll find a mix of content here:
 - Experiments with AI tools, content systems, and lead generation
 - A growing portfolio of client services I offer for founders and small teams
 
-If you're a founder, small business owner, or operator looking for **lean, practical marketing help**, check out my [Services](/services) page. I offer LinkedIn content writing and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
+If you're a founder, small business owner, or operator looking for **lean, practical marketing help**, check out my [Services](/services) page. 
+
+I offer LinkedIn content writing and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
 Otherwise, thanks for stopping by.  
 You can find me on [YouTube at Dom’s Content](https://www.youtube.com/@domscontent) or reach out via [email](domscontent@icloud.com) if you want to connect.
