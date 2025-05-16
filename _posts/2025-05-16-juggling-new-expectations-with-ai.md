@@ -25,7 +25,7 @@ This is where I find a beam of hope, if I can just focus my attention on automat
 
 So this is what I am doing. Juggling, not get credit for the work and concentration, but as I master n8n, I hope this will all pay off.
 
-My virtual private server is live, and whilst I begin to build agentic AI workflows, I hope my dreams of automation of the mundain will pay off. If not atleast I will be able to take my new skill elsewhere. Suckas.
+My virtual private server is live, and whilst I begin to build agentic AI workflows, I hope my dreams of automation of the mundain will pay off. If not, at least I will be able to take my new skill elsewhere.
 
 <img src="/assets/images/my-new-n8n.jpeg" alt="Building a n8n workflow for marketing taks" style="height: 500px; width: 700px;"/>
 
