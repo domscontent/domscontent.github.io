@@ -11,7 +11,7 @@ I work with solo founders and small businesses to help you grow online.
 
 ### LinkedIn content writing ✏️
 
-I’ll write posts in your voice that actually sound like you and spark engagement.
+I’ll ghostwrite your posts to spark engagement, whilst actually sounding like a human.
 
 **What you get:**
 - 3–5 posts per week written for you
