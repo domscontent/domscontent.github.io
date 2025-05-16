@@ -27,7 +27,7 @@ So this is what I am doing. Juggling, not get credit for the work and concentrat
 
 My virtual private server is live, and whilst I begin to build agentic AI workflows, I hope my dreams of automation of the mundain will pay off. If not atleast I will be able to take my new skill elsewhere. Suckas.
 
-<img src="/assets/images/my-new-n8n.jpeg" alt="Building a n8n workflow for marketing taks" style="height: 300px; width:300px;"/>
+<img src="/assets/images/my-new-n8n.jpeg" alt="Building a n8n workflow for marketing taks" style="height: 500px; width: 600px;"/>
 
 ## That's all, folks!
 
