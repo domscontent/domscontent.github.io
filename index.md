@@ -7,7 +7,7 @@ layout: home
 author_profile: true
 ---
 
-I'm a b2b marketer, currently mastering AI, automation and life. 
+I'm a b2b marketer, busy critiquing AI content, whilst also trying to master automation and life. 
 
 This is my digital diary, or *personal development blog•, keeping things human.
 
