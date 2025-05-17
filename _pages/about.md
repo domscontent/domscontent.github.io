@@ -7,7 +7,7 @@ title: "About"
 
 **Hey. My name’s Dom.** 
 
-I am a b2b marketer by day, and a busy rookie dad by night.
+I am a b2b marketer by day, and a busy rookie dad by night. I'm from the UK, in southern england. 
 
 *This is my digital diary, a personal development log, and a place to share what I’m learning.*
 
