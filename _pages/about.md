@@ -16,10 +16,12 @@ You’ll find a mix of content here:
 - Experiments with AI tools, content systems, and lead generation
 - A growing portfolio of client services I offer for founders and small teams
 
-You can watch the latest on [YouTube at Dom’s Content](https://www.youtube.com/@doms-content), and access all my exclusive resources, guides and video content on my [Patreon](https://patreon.com/domscontent)  
+*You can watch the latest on [YouTube at Dom’s Content](https://www.youtube.com/@doms-content), and access all my exclusive resources, guides and video content on my [Patreon](https://patreon.com/domscontent)*
+
+---
 
 If you're a founder, small business owner, or operator looking for *lean, practical marketing help*, check out my [services](/services) page. 
 
 I offer LinkedIn content writing and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
-Otherwise, thanks for stopping by.
+Otherwise, thanks for stopping by!
