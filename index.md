@@ -9,7 +9,7 @@ author_profile: true
 
 I'm a b2b marketer, busy critiquing AI content, whilst also mastering marketing automation, and dad life. 
 
-This is my rough digital diary, or *personal development blog*, keeping things transparent human 🧘
+This is my rough digital diary, or *personal development blog*, keeping things transparent and human 🧘
 
 I love my family, my job, adventure, music, and *fooooooooooooood.*
 
