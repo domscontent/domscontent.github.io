@@ -13,7 +13,9 @@ My YouTube will still be packed with value (for all you smart people), but if yo
 
 And I forgot to say, early birds will indeed get the worm, whilst as the Pateron grows some more useful resources will be moved to a higher tier...
 
-**BUT***Currently, for the price of a cup of coffee, it's access all areas...baby!*
+**BUT** *currently, for the price of a cup of coffee, it's access all areas...baby!*
+
+[<img src="/assets/images/doms-content-patreon.jpeg" alt="Dom's Content marketing automation & AI mastery Patreon" style="height: 470px; width: 660px;"/>](https://www.patreon.com/domscontent)
 
 ### That's all, folks!
 
