@@ -7,7 +7,9 @@ layout: home
 author_profile: true
 ---
 
-I'm a b2b marketer, busy critiquing AI content, whilst also mastering marketing automation, and dad life. 
+##I'm a UK based b2b marketer, 
+
+busy critiquing AI content, whilst also mastering marketing automation, and new dad life. 
 
 I love my family, my job, adventure, music, and *fooooooooooooood.*
 
