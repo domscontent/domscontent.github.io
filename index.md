@@ -9,10 +9,10 @@ author_profile: true
 
 I'm a b2b marketer, busy critiquing AI content, whilst also mastering marketing automation, and dad life. 
 
-This is my digital diary, or *personal development blog*, keeping things human 🧘
+This is my rough digital diary, or *personal development blog*, keeping things transparent human 🧘
 
 I love my family, my job, adventure, music, and *fooooooooooooood.*
 
-  **Hey,** I also give away lots of free value on my YouTube channel, [click here](https://youtube.com/@doms-content). 
+  **Hey,** I also give away lots of *free* value on my YouTube channel, [click here](https://youtube.com/@doms-content). 
   {: .notice--info}
   
