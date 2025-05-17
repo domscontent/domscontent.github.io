@@ -20,7 +20,7 @@ You’ll find a mix of content here:
 
 ---
 
-If you're a founder, small business owner, or operator looking for *lean, practical marketing help*, check out my [services](/services) page. 
+*If you're a founder, small business owner, or operator looking for lean, practical marketing help, check out my [services](/services) page.* 
 
 I offer LinkedIn content writing and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
