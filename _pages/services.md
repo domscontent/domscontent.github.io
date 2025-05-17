@@ -35,5 +35,5 @@ I’ll build and send your new email marketing campaign, and I’ll show you how
 
 ---
 
-Interested?  
-Reach out at [**domscontent@icloud.com**](mailto:domscontent@icloud.com)
+**Interested?**  
+[Book a informal 15 minute call with me and let's talk.](https://cal.com/domscontent/15min)
