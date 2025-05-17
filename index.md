@@ -7,7 +7,7 @@ layout: home
 author_profile: true
 ---
 
-##I'm a UK based b2b marketer, 
+## I'm a UK based b2b marketer, 
 
 busy critiquing AI content, whilst also mastering marketing automation, and new dad life. 
 
