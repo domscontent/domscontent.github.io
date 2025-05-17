@@ -16,7 +16,7 @@ You’ll find a mix of content here:
 - Experiments with AI tools, content systems, and lead generation
 - A growing portfolio of client services I offer for founders and small teams
 
-*You can watch the latest on [YouTube](https://www.youtube.com/@doms-content) at Dom’s Content, and access all my exclusive resources, guides and video content on my [**Patreon**](https://patreon.com/domscontent)*
+*You can watch the latest on [YouTube](https://www.youtube.com/@doms-content) at Dom’s Content, or access all my exclusive resources, guides and video content on my [**Patreon**](https://patreon.com/domscontent)*
 
 ---
 
