@@ -10,7 +10,7 @@ tags:
 
 ## This should help you understand the differenced between AI Agents & automation workflows (they are complimentary)<br/>
 
-Making sense of the different '**AI agents**' currently avaible - Auto-GPT, AgentGPT, LangChain, the list goes on....
+Making sense of the different '**AI agents**' currently avaible - Convergence AI, AgentGPT, LangChain, the list goes on....
 
 At first glance, they seem like the future: smart, autonomous bots that can browse the web, plan tasks and 'think' their way through problems.
 
