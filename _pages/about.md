@@ -24,6 +24,6 @@ I am a b2b marketer by day, and a busy rookie dad by night. I'm from the UK, in 
 
 I offer LinkedIn ghostwriting and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
-I also offer business process automation and AI agent build projects and consultation services.
+I also offer business process automation and AI agent consultation/build services.
 
 Otherwise, thanks for stopping by!
