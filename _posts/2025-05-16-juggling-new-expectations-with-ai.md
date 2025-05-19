@@ -11,7 +11,7 @@ tags:
 
 The utility of AI and LLM's in my workflow as a marketing executive is massive.
 
-Obviously since the means of outputting content , as well as ideation has become 100x easier and faster, the pressure to deliver more than ever.
+Obviously since the means of outputting content, as well as ideation, has become 100x easier and faster, the pressure to deliver more than ever.
 
 ### Learning to use AI and LLM's, whilst also being expected to already know what to do
 
