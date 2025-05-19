@@ -16,7 +16,7 @@ I am a b2b marketer by day, and a busy rookie dad by night. I'm from the UK, in 
 - Experiments with marketing automation, AI tools, and more
 - A growing portfolio of client services I offer for founders and small teams
 
-*You can watch the latest on [YouTube at Dom’s Content!](https://www.youtube.com/@doms-content)*
+*You can watch the latest on [**YouTube at Dom’s Content!**](https://www.youtube.com/@doms-content)*
 
 ---
 
@@ -26,4 +26,4 @@ I offer LinkedIn ghostwriting and cold email outreach systems that are fast, foc
 
 I also offer AI agent consultation and business process automation builds.
 
-Otherwise, thanks for stopping by!
+Otherwise, *thanks for stopping by!*
