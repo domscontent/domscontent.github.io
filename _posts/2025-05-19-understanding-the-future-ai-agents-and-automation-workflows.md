@@ -16,7 +16,7 @@ At first glance, they seem like the future: smart, autonomous bots that can brow
 
 *Here’s the catch 22: they’re clever, but not very reliable.* Agents today are slow, they get stuck and are expensive to run. Great for research or prototyping. Not great if you need consistent results every day.
 
-<img src="/assets/images/convergence-proxy-ai.jpeg" alt="Convergence's Proxy AI Agent" style="height: 875px; width: 1140px;"/>
+<img src="/assets/images/convergence-proxy-ai.jpeg" alt="Convergence's Proxy AI Agent" style="height: 654px; width: 800px;"/>
 
 ---
 
@@ -24,7 +24,7 @@ These are not to be confused with tools like n8n - This is '**workflow automatio
 
 These are less autonomous and need manual programming/setup, but more stable, repeatable, and still super useful.
 
-<img src="/assets/images/n8n-automation.jpeg" alt="My case study workflow automation in n8n" style="height: 875px; width: 1140px;"/>
+<img src="/assets/images/n8n-automation.jpeg" alt="My case study workflow automation in n8n" style="height: 654px; width: 800px;"/>
 
 ---
 
