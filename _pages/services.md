@@ -16,9 +16,9 @@ I can work with solo founders and businesses virtually, all over the world.
 I’ll ghostwrite your posts to spark engagement, whilst actually sounding like a human.
 
 **What you get:**
-- 3–5 posts per week written for you
+- 3 - 5 posts per week written for you
 - Based on your voice, goals, and positioning
-- Includes 1:1 async feedback via Loom or email
+- 1:1 profile revamp, tailored strategy + analytics review
 
 **Starts from £500/month**
 
@@ -29,19 +29,19 @@ I’ll ghostwrite your posts to spark engagement, whilst actually sounding like 
 I’ll build and send your new email marketing campaign, and then we will tweak and scale it.
 
 **What you get:**
-- Custom emails for your audience
-- Email sending + inbox setup (or I train you)
-- Campaign support to optimise replies
+- Bespoke email campaign for your offer
+- Campaign support to optimise campaign messaging 
+- Adhering to email marketing best pratice (and I can train you)
 
 **Starts from £300/email OR a % of attributed revenue from the campaign**
 
 ---
 
-### AI automation & AI agent consultation 🤖
+### AI agent consultation & business process automations 🤖
 
-Curious about AI agents or AI workflow automation?
+Curious about AI agents or automating your business operations?
 
-**1:1 consultations and custom project support for:**
+**1:1 consultations and custom projects for:**
 - Business process automation
 - Building custom workflows with n8n
 - Implementing AI agents for task automation
