@@ -20,20 +20,20 @@ I’ll ghostwrite your posts to spark engagement, whilst actually sounding like 
 - Based on your voice, goals, and positioning
 - Includes 1:1 async feedback via Loom or email
 
-**Starts from £250/month**
+**Starts from £500/month**
 
 ---
 
 ### Email marketing production 📩
 
-I’ll build and send your new email marketing campaign, and I’ll show you how to scale it.
+I’ll build and send your new email marketing campaign, and then we will tweak and scale it.
 
 **What you get:**
 - Custom emails for your audience
 - Email sending + inbox setup (or I train you)
 - Campaign support to optimise replies
 
-**Starts from £300/month**
+**Starts from £300/email OR a % of attributed revenue from the campaign**
 
 ---
 
@@ -46,9 +46,9 @@ Curious about AI agents or AI workflow automation?
 - Building custom workflows with n8n
 - Implementing AI agents for task automation
 
-**Consultancy rate is £42/hour. Competitve build rates depending on project size.**
+**Consultancy rate is £42/hour. Competitve build rates depending on project size**
 
 ---
 
 **Interested in any of the services above?**  
-[Book a informal 15 minute call with me and let's talk.](https://cal.com/domscontent/15min)
+[Book a informal 15 minute call with me and let's talk some numbers.](https://cal.com/domscontent/15min)
