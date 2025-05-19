@@ -43,8 +43,8 @@ Curious about AI agents or AI workflow automation?
 
 **I offer 1:1 consultations and custom project support for:**
 - Automated business workflows with n8n
-- Hybrid setups that combine both AI agents and process automation
 - Help scoping and planning small business automations
+- Hybrid setups that combine both AI agents and process automation
 
 **I’ll work with you at a competitve mid-tier rate, depending on project size. Consultancy rate is £32 per hour.**
 
