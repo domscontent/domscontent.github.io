@@ -3,12 +3,12 @@ main:
     url: /services/
   - title: "YouTube"
     url: https://youtube.com/@doms-content
-  - title: "Patreon"
-    url: https://www.patreon.com/domscontent
   - title: "About"
     url: /about/
   - title: "Blog"
     url: /posts/
+#  - title: "Patreon"
+#    url: https://www.patreon.com/domscontent
   
   
   
