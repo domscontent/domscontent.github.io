@@ -13,7 +13,7 @@ I can work with solo founders and businesses virtually, all over the world.
 
 ### LinkedIn content writing ✏️
 
-I’ll ghostwrite your posts to spark engagement, whilst actually sounding like a human.
+I’ll ghostwrite your posts for maximum reach and engagement, whilst also sounding like a human.
 
 **What you get:**
 - 3 - 5 posts per week written for you
