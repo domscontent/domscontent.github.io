@@ -6,9 +6,9 @@ tags:
   - entry
   - update
 ---
-## An exclusive Pateron for marketing automation & AI mastery<br/>
+## An exclusive Pateron for AI marketing agent automation<br/>
 
-Okay, this is quite exciting because, as I develop my knowledge and resources for AI marketing automation (tried and tested in a real business environment)...
+Okay, this is quite exciting because, as I develop my knowledge and resources for AI assisted marketing process automation (tried and tested in a real business environment)...
 
 I will be sharing the behind the scenes and video guides on just how you can become a kickass automated marketing genius TOO!
 
@@ -19,7 +19,7 @@ And I forgot to say, early birds will indeed get the worm, whilst as the Pateron
 
 **BUT** *currently, for the price of a cup of coffee, it's access all areas...baby!*
 
-[<img src="/assets/images/doms-content-patreon.jpeg" alt="Dom's Content marketing automation & AI mastery Patreon" style="height: 470px; width: 660px;"/>](https://www.patreon.com/domscontent)
+[<img src="/assets/images/doms-content-patreon.jpeg" alt="Dom's Content AI Marketing Agent Automation Patreon" style="height: 500px; width: 800px;"/>](https://www.patreon.com/domscontent)
 
 ### That's all, folks!
 
