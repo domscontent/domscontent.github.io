@@ -20,8 +20,10 @@ I am a b2b marketer by day, and a busy rookie dad by night. I'm from the UK, in 
 
 ---
 
-*If you're a founder, small business owner, or operator looking for lean, practical marketing help, check out my [services](/services) page.* 
+*If you're a founder, small business owner, or operator looking for practical marketing help, advice on automating business operations, or AI agents, check out my [services](/services) page.* 
 
 I offer LinkedIn ghostwriting and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
+
+I also offer AI business process automation and AI agent consultation.
 
 Otherwise, thanks for stopping by!
