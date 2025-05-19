@@ -1,7 +1,10 @@
 main:
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /posts/
   - title: "Services"
     url: /services/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /posts/
+  - title: "AI Marketing Agent Automation"
+    url: https://www.patreon.com/domscontent
+  
