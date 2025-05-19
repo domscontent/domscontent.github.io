@@ -5,7 +5,9 @@ title: "Services"
 
 ## Dom's Content Services
 
-I work with solo founders and small businesses to help you grow online.
+I am based in the UK, in the south of england. 
+
+I can work with solo founders and small businesses virtually, all over the world.
 
 ---
 
@@ -35,5 +37,18 @@ I’ll build and send your new email marketing campaign, and I’ll show you how
 
 ---
 
-**Interested?**  
+### AI automation & AI agent consultation 🤖
+
+Curious about AI agents or AI workflow automation?
+
+**I offer 1:1 consultations and custom project support for:**
+- Automated business workflows with n8n
+- Hybrid setups that combine both AI agents and process automation
+- Help scoping and planning small business automations
+
+**I’ll work with you at a competitve mid-tier rate, depending on project size. Consultancy rate is £32 per hour.**
+
+---
+
+**Interested in any of the services above?**  
 [Book a informal 15 minute call with me and let's talk.](https://cal.com/domscontent/15min)
