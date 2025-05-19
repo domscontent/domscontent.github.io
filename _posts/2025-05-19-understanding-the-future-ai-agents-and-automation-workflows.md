@@ -14,9 +14,7 @@ Making sense of the different AI agents currently avaible - Auto-GPT, AgentGPT, 
 
 At first glance, they seem like the future: smart, autonomous bots that can browse the web, plan tasks and “think” their way through problems.
 
-*Here’s the catch 22: they’re clever, but not very reliable.*
-
-Agents today are slow, they get stuck and are expensive to run. Great for research or prototyping. Not great if you need consistent results every day.
+*Here’s the catch 22: they’re clever, but not very reliable.* Agents today are slow, they get stuck and are expensive to run. Great for research or prototyping. Not great if you need consistent results every day.
 
 These are not to be confused with tools like n8n - workflow automation with triggers, webhooks, APIs, and now even GPT built in. These are less autonomous and need manual programming/setup, but more stable, repeatable, and still super useful.
 
