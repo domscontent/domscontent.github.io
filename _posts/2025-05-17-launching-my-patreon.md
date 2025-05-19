@@ -8,7 +8,7 @@ tags:
 ---
 ## An exclusive Pateron for marketing automation & AI mastery<br/>
 
-Okay, this is quite exciting because, as I develop my knowledge and resources for AI marketing automation (tried and tested in a real business environment)
+Okay, this is quite exciting because, as I develop my knowledge and resources for AI marketing automation (tried and tested in a real business environment)...
 
 I will be sharing the behind the scenes and video guides on just how you can become a kickass automated marketing genius TOO!
 
