@@ -18,13 +18,13 @@ At first glance, they seem like the future: smart, autonomous bots that can brow
 
 Agents today are slow, they get stuck and are expensive to run. Great for research or prototyping. Not great if you need consistent results every day.
 
-On the flip side, you’ve got tools like n8n - workflow automation with triggers, webhooks, APIs, and now even GPT built in. These are less autonomous, but more stable table, repeatable, and super useful.
+These are not to be confused with tools like n8n - workflow automation with triggers, webhooks, APIs, and now even GPT built in. These are less autonomous and need manual programming/setup, but more stable, repeatable, and still super useful.
 
 **The sweet spot?**
 
-- Use AI agents to think (e.g., generate ideas, make decisions)
+- Use AI agents to **think** (e.g., generate ideas, make decisions)
 
-- Use n8n to do (e.g., send emails, update sheets, post content)
+- Use n8n to **do** (e.g., send emails, update sheets, post content)
 
 You can even plug agents into n8n with HTTP requests or the new “AI Agent” node.
 
