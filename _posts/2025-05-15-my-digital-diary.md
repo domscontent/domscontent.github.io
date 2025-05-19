@@ -8,19 +8,19 @@ tags:
 ---
 ## I think I am late to the github party...<br/>
 
-but today marks the start of my 'digital diary'...
+But today marks the start of my 'digital diary'...
 
-my personal development log, or my devlog of life.
+My personal development log, or my devlog of life.
 
-*thanks for stopping by.*
+*Thanks for stopping by.*
 
 <img src="/assets/images/bio-photo.jpeg" alt="Dom's Content" style="height: 200px; width:200px;"/>
 
 ### I have figured out I can host this for free on github pages<br/>
 
-which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
+Which is pretty awesome. i have tried ghost and beehiiv, but this is superior.
 
-  **p.s** anyhow, if you wanted to check out my YouTube content, [click here](https://youtube.com/@doms-content). 
+  **p.s** Anyhow, if you wanted to check out my YouTube content, [click here](https://youtube.com/@doms-content). 
   {: .notice}
 
 ---
