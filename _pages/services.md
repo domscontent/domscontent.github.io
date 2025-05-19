@@ -41,12 +41,12 @@ I’ll build and send your new email marketing campaign, and I’ll show you how
 
 Curious about AI agents or AI workflow automation?
 
-**I offer 1:1 consultations and custom project support for:**
-- Automated business workflows with n8n
-- Help scoping and planning small business automations
-- Hybrid setups that combine both AI agents and process automation
+**1:1 consultations and custom project support for:**
+- Business process automation
+- Building custom workflows with n8n
+- Implementing AI agents for task automation
 
-**I’ll work with you at a competitve mid-tier rate, depending on project size. Consultancy rate is £32/hour.**
+**Consultancy rate is £42/hour. Competitve build rates depending on project size.**
 
 ---
 
