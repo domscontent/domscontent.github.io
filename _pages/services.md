@@ -46,7 +46,7 @@ Curious about AI agents or AI workflow automation?
 - Help scoping and planning small business automations
 - Hybrid setups that combine both AI agents and process automation
 
-**I’ll work with you at a competitve mid-tier rate, depending on project size. Consultancy rate is £32 per hour.**
+**I’ll work with you at a competitve mid-tier rate, depending on project size. Consultancy rate is £32/hour.**
 
 ---
 
