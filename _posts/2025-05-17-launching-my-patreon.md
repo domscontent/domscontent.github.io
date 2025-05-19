@@ -12,7 +12,7 @@ Okay, this is quite exciting because, as I develop my knowledge and resources fo
 
 I will be sharing the behind the scenes and video guides on just how you can become a kickass automated marketing genius TOO!
 
-[*My YouTube*](https://youtube.com/doms-content) will still be packed with value (*for all you smart people*), but if you want to skip ahead and get down to the real key takeaways and action points laid out in a easy to follow fashion, then [**my Pateron**](https://www.patreon.com/domscontent) is the place for you! 
+[*My YouTube*](https://youtube.com/@doms-content) will still be packed with value (*for all you smart people*), but if you want to skip ahead and get down to the real key takeaways and action points laid out in a easy to follow fashion, then [**my Pateron**](https://www.patreon.com/domscontent) is the place for you! 
 {: .notice--info}
 
 And I forgot to say, early birds will indeed get the worm, whilst as the Pateron grows some more useful resources will be moved to a higher tier...
