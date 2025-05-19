@@ -7,7 +7,7 @@ title: "Services"
 
 I am based in the UK, in the south of england. 
 
-I can work with solo founders and small businesses virtually, all over the world.
+I can work with solo founders and businesses virtually, all over the world.
 
 ---
 
