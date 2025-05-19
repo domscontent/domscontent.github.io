@@ -10,23 +10,29 @@ tags:
 
 ## This should help you understand the differenced between AI Agents & automation workflows (they are complimentary)<br/>
 
-Making sense of the different AI agents currently avaible - Auto-GPT, AgentGPT, LangChain.
+Making sense of the different '**AI agents**' currently avaible - Auto-GPT, AgentGPT, LangChain, the list goes on....
 
-At first glance, they seem like the future: smart, autonomous bots that can browse the web, plan tasks and “think” their way through problems.
+At first glance, they seem like the future: smart, autonomous bots that can browse the web, plan tasks and 'think' their way through problems.
 
 *Here’s the catch 22: they’re clever, but not very reliable.* Agents today are slow, they get stuck and are expensive to run. Great for research or prototyping. Not great if you need consistent results every day.
 
-These are not to be confused with tools like n8n - workflow automation with triggers, webhooks, APIs, and now even GPT built in. These are less autonomous and need manual programming/setup, but more stable, repeatable, and still super useful.
+---
+
+These are not to be confused with tools like n8n - This is '**workflow automation**' that uses triggers from webhooks, APIs, and now even LLM's built in. 
+
+These are less autonomous and need manual programming/setup, but more stable, repeatable, and still super useful.
+
+---
 
 **The sweet spot?**
 
-- Use AI agents to **think** (e.g., generate ideas, make decisions)
+- Use *AI agents* to **think** (e.g., generate ideas, make decisions)
 
-- Use n8n to **do** (e.g., send emails, update sheets, post content)
+- Use *workflow automation*, with tools like n8n, to **do** (e.g., send emails, update sheets, post content)
 
-You can even plug agents into n8n with HTTP requests or the new “AI Agent” node.
+You can even plug LLM's into n8n with HTTP requests or the new “AI Agent” node.
 
-So yeah - agents might be the future, but automation featuring AI Agent intergration (a combo of both) is the present. I am certianly utilising both.
+So yes - agents might be the future, but automation featuring AI Agent intergration (a combo of both) is the present. I am certianly utilising both.
 
 ## That's all, folks!
 
