@@ -40,7 +40,7 @@ You can plug LLM's into n8n with HTTP requests or the new “AI Agent” node.
 
 So yes - agents might be the future, but automation featuring AI Agent intergration (a combo of both) is the present. I am certianly utilising both.
 
- **Hey,** I just published a really sweet guide on how to self host n8n with a Hetzner VPS (The best option for price, performance and security, [click here]([https://youtube.com/@doms-content](https://www.patreon.com/posts/self-hosted-n8n-129457782?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)). 
+ **Hey,** I just published a really sweet guide on how to self host n8n with a Hetzner VPS (The best option for price, performance and security, [click here)]([https://youtube.com/@doms-content](https://www.patreon.com/posts/self-hosted-n8n-129457782?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)). 
   {: .notice--info}
 
 ## That's all, folks!
