@@ -16,7 +16,7 @@ I am a b2b marketer by day, and a busy rookie dad by night. I'm from the UK, in 
 - Experiments with marketing automation, AI agents, tools, and more
 - A growing portfolio of client services I offer for founders and small teams
 
-*You can watch the latest on [**YouTube at Dom’s Content!**](https://www.youtube.com/@doms-content)*
+*You can watch the latest on [**YouTube at Dom’s Content,**](https://www.youtube.com/@doms-content)* or you could check out [my exclusive Patreon](https://www.patreon.com/domscontent), with handy guides, exclusive content and more behind the scenes...
 
 ---
 
