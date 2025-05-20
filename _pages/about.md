@@ -24,7 +24,7 @@ You can check out [my exclusive Patreon](https://www.patreon.com/domscontent), w
 
 ---
 
-*If you're a founder or business owner looking for more practical help, advice on automating business operations, or help with AI agents, check out my [services](/services) page.* 
+*If you're a founder or business owner looking for more practical marketing help, advice on automating business operations, or help with AI agents, check out my [services](/services) page.* 
 
 I offer LinkedIn ghostwriting and cold email outreach systems that are fast, focused, and human-led (with some help from AI, of course).
 
