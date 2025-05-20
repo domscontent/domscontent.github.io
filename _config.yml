@@ -66,9 +66,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/domscontent"
-#    - label: "Patreon"
-#      icon: "fab fa-fw fa-patreon"
-#      url: "https://www.patreon.com/domscontent"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/domscontent"
 
 footer:
   links:
@@ -78,9 +78,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/domscontent"
-#    - label: "Patreon"
-#      icon: "fab fa-fw fa-patreon"
-#      url: "https://www.patreon.com/domscontent"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://www.patreon.com/domscontent"
 
 defaults:
   # _posts
