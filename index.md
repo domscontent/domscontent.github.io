@@ -9,11 +9,7 @@ author_profile: true
 
 ## I'm a UK based b2b marketer, 
 
-busy critiquing AI content, whilst also mastering marketing automation, and new dad life. 
-
-I love my family, my job, adventure, music, and *fooooooooooooood.*
-
-This is my rough digital diary, or *personal development blog*, keeping things transparent and human 🧘
+this is my rough digital diary, or *personal development blog*, keeping things transparent and human 🧘
 
   **Hey,** I also give away lots of *free* value on my YouTube channel, [click here](https://youtube.com/@doms-content). 
   {: .notice--info}
