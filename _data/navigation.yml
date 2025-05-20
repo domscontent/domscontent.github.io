@@ -1,14 +1,15 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Services"
     url: /services/
   - title: "YouTube"
     url: https://youtube.com/@doms-content
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /posts/
   - title: "Patreon"
     url: https://www.patreon.com/domscontent
+  - title: "Blog"
+    url: /posts/
+  
   
   
   
