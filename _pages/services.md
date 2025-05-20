@@ -51,4 +51,4 @@ Curious about AI agents or automating your business operations?
 ---
 
 **Interested in any of the services above?**  
-[Book a informal 15 minute call with me and let's talk!.](https://cal.com/domscontent/15min)
+[Book a informal 15 minute call with me and let's talk!](https://cal.com/domscontent/15min)
