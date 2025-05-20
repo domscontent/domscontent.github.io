@@ -7,8 +7,8 @@ main:
     url: /about/
   - title: "Blog"
     url: /posts/
-#  - title: "Patreon"
-#    url: https://www.patreon.com/domscontent
+  - title: "Patreon"
+    url: https://www.patreon.com/domscontent
   
   
   
