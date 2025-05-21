@@ -1,0 +1,15 @@
+
+A webhook allows a third party app to notifiy n8n on a trigger, anywhere there is not a native api credential
+
+On n8n select a webhook node and view the 'Test URL' or 'Production URL'
+
+Copy and paste this into the third party back end, where there is a field for a webhook event
+
+These are now connected, when this event is complted, the third party will send a notification to the webhook url, provided by n8n
+
+(this is just a trigger, and the webhook does not send any value)
+
+one step further, to then recieve a value, you need to use a HTTP request node in n8n, with the API ur;, and the unique API key
+
+now the data can be recievd back to n8n, from the API key
+
