@@ -22,9 +22,9 @@ These are now connected, when this event is complted, the third party will send 
 
 ### One step further, to recieve a value from a programme with a API, you need to use a HTTP request node in n8n (instead of a webhook), with the API URL, and your unique API key.
 
-[<img src="/assets/images/n8n-api-call.jpeg" alt="A webhook in n8n" style="height: 600px; width: 580px;"/>]
+[<img src="/assets/images/n8n-api-call.jpeg" alt="Api call in n8n" style="height: 600px; width: 580px;"/>]
 
-[<img src="/assets/images/n8n-api-call-2.jpeg" alt="A webhook in n8n" style="height: 600px; width: 580px;"/>]
+[<img src="/assets/images/n8n-api-call-2.jpeg" alt="Api call in n8n key" style="height: 600px; width: 580px;"/>]
 
 Now the data can be recievd back to n8n, thanks to the API key. 
 
